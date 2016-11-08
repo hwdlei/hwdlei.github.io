@@ -5,7 +5,6 @@ date: 2016-10-20
 categories: 笔试面试
 tags: [笔试,算法与数据结构]
 description:  一个链表：a->b->c->d->e  每两个元素进行反转：b->a->d->c->e
-
 ---
 
 ## 问题
