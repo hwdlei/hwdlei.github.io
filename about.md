@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: " "
 header-img: "img/green.jpg"
 ---
 
@@ -10,17 +10,9 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我叫董磊。
+我叫董磊。 程序猿。关注大数据技术。
 
-### 坚信
-
-
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
-
-###联系
+### 联系我
 
 - [微博@hfutdl](http://www.weibo.com/u/3315999773)
 
