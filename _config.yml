@@ -18,9 +18,9 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: 
+github_username: hwdlei
 facebook_username: 
-weibo_username: 
+weibo_username:hfutdl 
 zhihu_username: 
 
 # Build settings  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "hwdlei"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
