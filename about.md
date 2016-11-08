@@ -23,7 +23,7 @@ header-img: "img/green.jpg"
 - WeChat：
 
 <center>
-    <p><img src="http://ogbrng9od.bkt.clouddn.com/WeChat.png" align="center"></p>
+    <p><img src="http://ogbrng9od.bkt.clouddn.com/WeChat_small.png" align="center"></p>
 </center>
 
 
