@@ -1,7 +1,7 @@
 # Site settings
 title: 忆往昔、惜今朝、奔前程
 header-img: "img/green.jpg"
-tagline: "cn"  
+tagline: "hwdlei"  
 description: "董磊"  
 baseurl: ""
 url: ""  
@@ -10,7 +10,7 @@ url: ""
 owner: 
   name: " hwdlei"
   email: d21958@yeah.net
-  bio: ""
+  bio: "骑马、砍柴、周游世界"
 
 # Data
 gavatar: http://ogbrng9od.bkt.clouddn.com/gavatar.png
@@ -50,9 +50,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : 
+    short_name : hwdlei 
   disqus :
-      short_name : 
+      short_name : hwdlei
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
